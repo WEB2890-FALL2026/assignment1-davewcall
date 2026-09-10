@@ -3,6 +3,7 @@
 
 .menu {
   @include gradient;
+  background: linear-gradient(to right, $primary, $secondary);
 
   li {
     padding: 0 0.7rem;

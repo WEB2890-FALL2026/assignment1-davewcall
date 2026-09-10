@@ -1,1 +1,21 @@
-TODO: List here all the changes you made to given template to adapt it to your needs
+WEB 2890 - Bootstrap 5 & Sass Portfolio
+CHANGES.TXT
+
+1. Rebranded the template as a personal software developer portfolio for Dave Call.
+2. Replaced the template introduction with real professional content describing 30 years of software development experience.
+3. Changed the Services section into a Technical Skills section covering backend, web, database, and cloud/deployment skills.
+4. Replaced the Companies section with a Technologies & Tools section featuring C#, .NET, ASP.NET Core, SQL Server, Oracle, Bootstrap, JavaScript, Git/GitHub, and Azure.
+5. Replaced the Testimonials section with a Professional Experience section highlighting software development experience and areas of expertise.
+6. Replaced the FAQ section with an About Me section describing professional background and key strengths.
+7. Reworked the Portfolio section into My Projects with nine software-development projects and real project descriptions.
+8. Replaced the original portfolio artwork with customized project images representing web development, event registration, Python/Django, Azure, ASP.NET Core, SQL Server, and enterprise software.
+9. Updated the navigation menu to match the new portfolio sections: Home, Skills, Experience, About Me, Projects, and Contact.
+10. Reworked the Contact/Get Started section into a professional Contact Me section with a software-development-focused message and contact form.
+11. Updated the footer with real portfolio navigation, project links, contact information, GitHub, LinkedIn, and a 2026 copyright notice.
+12. Removed unused social-media links from the footer and retained GitHub and LinkedIn.
+13. Customized the site color palette using a dark navy and teal combination and updated Bootstrap primary/secondary colors.
+14. Updated the footer styling to use the new navy/teal color palette consistently.
+15. Changed footer link hover styling so links remain visible against the dark footer background.
+16. Added scroll-margin-top styling to section anchors so fixed navigation does not cover section headings when navigating.
+17. Made the navbar background fully opaque so content does not show through the fixed navigation while scrolling.
+18. Verified the layout at 400px, 768px, and 992px widths for mobile, tablet, and desktop responsiveness.
